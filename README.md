@@ -1,4 +1,5 @@
 # Twitter-project
+This repository contains scripts and tools for conducting sentiment analysis on social media data.The main goal is to extract ,process,and analyze text data from social media platforms to understand the sentiment towards topic,events,or brands.
 
 # Conclusion of the Sentiment Analysis Project
 The comprehensive sentiment analysis of the Twitter dataset has provided several key insights into public opinion and attitudes towards various entities, topics, and brands. Here are the main conclusions drawn from the analyses:
@@ -35,3 +36,4 @@ The sentiment analysis project provides a detailed understanding of public opini
 * Customer Feedback Analysis: Understanding customer opinions and improving products or services.
 * Social Media Strategy: Crafting content that aligns with public sentiment and popular themes.
 * Influencer and User Engagement: Engaging with influential users and understanding their sentiment patterns.
+# Source:-https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
