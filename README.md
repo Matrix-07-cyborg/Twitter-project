@@ -1,17 +1,5 @@
 # Twitter-project
 
-# Import Libraries
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-from wordcloud import WordCloud
-from nltk.corpus import stopwords
-from nltk import download as nltk_download
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.decomposition import LatentDirichletAllocation
-import numpy as np
-from nltk.sentiment import SentimentIntensityAnalyzer
-
 # Conclusion of the Sentiment Analysis Project
 The comprehensive sentiment analysis of the Twitter dataset has provided several key insights into public opinion and attitudes towards various entities, topics, and brands. Here are the main conclusions drawn from the analyses:
 
